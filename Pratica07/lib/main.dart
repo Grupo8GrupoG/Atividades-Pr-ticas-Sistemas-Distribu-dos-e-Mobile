@@ -12,7 +12,7 @@ void main() {
           shape: BoxShape.circle,
           color: Colors.yellowAccent,
         ),
-        padding: EdgeInsets.all(90)
+        padding: EdgeInsets.all(90),
       ),
     ),
   );
