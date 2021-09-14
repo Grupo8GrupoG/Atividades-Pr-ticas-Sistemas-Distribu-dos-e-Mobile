@@ -12,8 +12,7 @@ void main() {
           shape: BoxShape.circle,
           color: Colors.yellowAccent,
         ),
-        padding: EdgeInsets.all(90),
-        margin: const EdgeInsets.all(0),
+        padding: EdgeInsets.all(90)
       ),
     ),
   );
