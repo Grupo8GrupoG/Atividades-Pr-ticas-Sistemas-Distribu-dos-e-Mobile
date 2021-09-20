@@ -1,0 +1,4 @@
+No vídeo foi algumas funcionalidades do flutter com o dart,
+e foi abordado como uma linguagem muito boa de se trabalhar,
+pelo fato que você já pode aprender na pratica. Ao contrario de outras linguagens que você precisa ver a documentação antes, para depois ir para uma IDE e começar seus códigos simples, já no flutter com a linguagem dart você já constrói uma tela com elementos funcionais sem muita enrolação,
+foi mostrado como uma linguagem de muito fácil abordagem e sem complicações.
