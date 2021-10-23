@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <link href="css/estilo.css" rel="stylesheet">
+    <script src="js/app.js"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Funcionário</title>
+</head>
+
+<body>
+    <div class="formulario"></div>
+
+    <form>
+        <h1>Cadastro de Funcionário</h1>
+        <label>Nome:</label>
+        <input id="name" class="input" type="text">
+        <label>E-mail:</label>
+        <input id="email" class="input" type="text">
+        <label>Data de Nascimento:</label>
+        <input id="date" class="input" type="date">
+        <label>Escolaridade:</label>
+        <select name="">
+            <option value=""></option>
+            <option value="infantil">Ensino infantil completo</option>
+            <option value="fundamental">Ensino fundamental completo</option>
+            <option value="medio">Ensino médio completo</option>
+            <option value="superior">Ensino superior completo</option>
+        </select>
+        <label>Sexo:</label>
+        <input  type="radio" name="sexo" id="sexo">
+        <label for="sexo">Masculino</label>
+        <input type="radio" name="sexo" id="sexo">
+        <label for="sexo">Feminino</label>
+        <button class="limpar">Limpar</button>
+        <button class="cadastrar"  onclick="validar()">Cadastrar</button>
+    </form>
+
+    </div>
+</body>
+
+</html>

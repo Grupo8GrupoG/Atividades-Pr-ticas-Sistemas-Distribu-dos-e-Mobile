@@ -1,0 +1,49 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+form {
+    display: table;
+    margin: 0 auto;
+    height: 100%;
+    background: #EDEFF1;
+    padding: 30px 100px;
+    width: 200px;
+    height: 20px;
+}
+
+h1 {
+    font-family: Verdana,Tahoma,sans-serif;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: gray;
+    
+}
+
+input {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    
+    
+}
+
+button{
+    color:blue;
+    background-color: cornflowerblue;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    
+}
+
+
+
+label{
+    text-align: center;
+    color: gray;
+    font-weight: bold;
+}
